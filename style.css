@@ -1,0 +1,44 @@
+.navbar-brand img{
+    height: 35px;
+    
+}
+
+.bg-banner-info{
+    background-color: #0dcaf0;;
+}
+
+/*.carousel-item{
+    padding: 20px 40px;
+    
+}*/
+
+.btn-color{
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    transition: 0.4s;
+    
+}
+.btn-color:hover{
+    transform: scale(1.2);
+    color: white;
+}
+.btn0{
+    transition: 0.4s;
+    
+}
+.btn0:hover{
+    transform: scale(1.1);
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.product-card{
+    transition: .3s;
+}
+.product-card:hover{
+    transform: scaley(1.1);
+}
+.catagoris{
+    transition: .3s;
+}
+.catagoris:hover{
+    transform: scale(1.1);
+}
